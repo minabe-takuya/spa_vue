@@ -38,7 +38,7 @@ export default {
       lat:"",//入力値から取得
       lon:"",//入力値から取得
       units : '&units=metric&',//温度を摂氏で取得
-      id : 'appid=9f7ae4c7148eb987045e019a6ac8889f',
+      id : 'appid=キー',
     }
   },
   methods: {
