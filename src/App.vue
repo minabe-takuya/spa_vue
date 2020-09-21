@@ -2,15 +2,18 @@
   <div id="app">
     <Firebase></Firebase>
     <Weather></Weather>
+    <Gurunabi></Gurunabi>
   </div>
 </template>
 <script>
   import Weather from "@/components/Weather";
   import Firebase from "@/components/Firebase";
+  import Gurunabi from "@/components/Gurunabi";
   export default {
     components:{
       Firebase,
-      Weather
+      Weather,
+      Gurunabi,
     },
   }
 </script>
